@@ -1,5 +1,5 @@
 {
-  "name": "json-loader",
+  "name": "webpack-json-loader",
   "version": "1.0.0",
   "description": "a webpack loader test project",
   "main": "index.js",
