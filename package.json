@@ -1,0 +1,22 @@
+{
+  "name": "json-loader",
+  "version": "1.0.0",
+  "description": "a webpack loader test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wuyuO",
+  "license": "ISC",
+  "dependencies": {
+    "memory-fs": "^0.4.1",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.0.4"
+  }
+}
